@@ -10269,11 +10269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+      "projectUniqueName": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
       "projectName": "SistemaVenta.AplicacionWeb",
-      "projectPath": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+      "projectPath": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
       "packagesPath": "C:\\Users\\Johan Ariel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\obj\\",
+      "outputPath": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Johan Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10291,14 +10291,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-              "projectPath": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+            "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+              "projectPath": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
             },
-            "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
-              "projectPath": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+            "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+              "projectPath": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
             }
           }
         }

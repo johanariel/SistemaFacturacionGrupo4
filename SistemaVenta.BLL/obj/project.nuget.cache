@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t8gWCKMJwQcxzY0SQdz87UVtgh1te+/FWYwSwyElgGvt6gm4cwVbRBs6urPFyHa3f1QfMi0mCWYHKpMWN7xFlg==",
+  "dgSpecHash": "e9PMa9B009RoICplffiM43O5dL2uvmBF8FQKaT8/OwdjlXbwQzPlgCkEnday35GLVVtUsWoT0dihQDduT9YrAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+  "projectFilePath": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Johan Ariel\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
     "C:\\Users\\Johan Ariel\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",

@@ -2017,11 +2017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectUniqueName": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "projectName": "SistemaVenta.Entity",
-      "projectPath": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectPath": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "packagesPath": "C:\\Users\\Johan Ariel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johan Ariel\\Downloads\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\obj\\",
+      "outputPath": "D:\\JACS\\UTA\\7 SEMESTRE\\CALIDAD\\CÓDIGO FUENTE\\SolucionSistemaVenta\\SistemaVenta.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Johan Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",

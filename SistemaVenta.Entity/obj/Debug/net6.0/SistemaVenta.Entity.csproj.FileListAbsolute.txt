@@ -53,3 +53,17 @@ C:\Users\Johan Ariel\Downloads\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.
 C:\Users\Johan Ariel\Downloads\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
 C:\Users\Johan Ariel\Downloads\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
 C:\Users\Johan Ariel\Downloads\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+D:\JACS\UTA\7 SEMESTRE\CALIDAD\CÓDIGO FUENTE\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll

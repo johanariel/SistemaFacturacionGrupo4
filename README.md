@@ -26,3 +26,8 @@ Este repositorio contiene un sistema de facturación desarrollado utilizando tec
    ```bash
    git clone https://github.com/johanariel/SistemaFacturacionGrupo4.git
    ```
+## Capturas de Ejecución
+![Descripción de la imagen](login.png)
+![Descripción de la imagen](dashboard.png)
+![Descripción de la imagen](negocio.png)
+![Descripción de la imagen](ventas.png)
